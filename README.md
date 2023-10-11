@@ -6,6 +6,14 @@ A libary of 2288 icons without colors.
 
 <img src="/0-500/fi-rr-apps.svg" alt="Apps" width="100"/><img src="/0-500/fi-rr-ban.svg" alt="Ban" width="100"/><img src="/500-1000/fi-rr-clipboard.svg" alt="Clipboard" width="100"/><img src="/500-1000/fi-rr-envelope.svg" alt="Envelope" width="100"/><img src="/500-1000/fi-rr-file-image.svg" alt="Image File" width="100"/>
 
+## Téléchargement
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="All.zip" download style="justify-content: center">
+        <img src="/500-1000/fi-rr-download.svg" alt="Logo" width="150" height="150">
+    </a>
+</div>
+
 ## Structure du Projet
 
 ```plaintext
