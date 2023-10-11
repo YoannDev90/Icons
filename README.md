@@ -4,7 +4,7 @@ A libary of 2288 icons without colors.
 
 ## Exemples
 
-![Apps](fi-rr-apps.svg)
+![Apps](0-500\fi-rr-apps.svg)
 ![Ban](fi-rr-ban.svg)
 ![Clipboard](fi-rr-clipboard.svg)
 ![Envelope](lfi-rr-envelope.svg)
