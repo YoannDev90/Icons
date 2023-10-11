@@ -1,17 +1,18 @@
-#Icons
+# Icons
 
 A libary of 2288 icons without colors.
 
-## Aperçu
+## Exemples
 
-Incluez ici un aperçu visuel de votre projet. Vous pouvez ajouter des images, des gifs, des captures d'écran, etc.
+![Apps](fi-rr-apps.svg)
+![Ban](fi-rr-ban.svg)
+![Clipboard](fi-rr-clipboard.svg)
+![Envelope](lfi-rr-envelope.svg)
+![Image](fi-rr-file-image.svg)
 
 ## Structure du Projet
 
-Expliquez la structure de votre projet, en particulier la répartition des dossiers et des fichiers. Mentionnez le rôle de chaque dossier.
-
 ```plaintext
-/
 |-- icons/
 |   |-- 0-500/
 |   |   |-- icone.svg
